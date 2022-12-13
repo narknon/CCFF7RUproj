@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 10,
+	"VersionName": "10",
+	"FriendlyName": "Particle Editor Extension",
+	"Description": "Extends the particle editor with awesome new modules like jiggling and swarm movement.",
+	"Category": "ParticleEditor",
+	"CreatedBy": "Cultrarius",
+	"CreatedByURL": "https://github.com/Cultrarius",
+	"DocsURL": "https://cultrarius.github.io/UE4ParticleEditorPlugin",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/168854e0e14b40c6bb60cc441b0c5490",
+	"SupportURL": "mailto:cultrarius@posteo.de",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CascadeExtensionPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}

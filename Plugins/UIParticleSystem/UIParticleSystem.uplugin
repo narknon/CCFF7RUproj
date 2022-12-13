@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.4",
+	"FriendlyName": "UIParticleSystem",
+	"Description": "A combination of particlesystem and slate, supports sprite and ribbon data type.\n1.1.3 update: Add GetParticleComponent.\n1.1.4 update: Add bAutoActivate.",
+	"Category": "Other",
+	"CreatedBy": "SnaflodaChristine",
+	"CreatedByURL": "http://www.snafloda.com/blog/",
+	"DocsURL": "http://www.snafloda.com/blog/uiparticlesystem-documentation/",
+	"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/content/10b64fc937ac49edba22761bb0b9eaeb",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UIParticleSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}

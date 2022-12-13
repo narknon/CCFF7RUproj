@@ -1,0 +1,15 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "FAIR_BLOWTYPE.generated.h"
+
+UENUM(BlueprintType)
+enum class FAIR_BLOWTYPE : uint8 {
+    FAIR_BLOWTYPE_BASIC,
+    FAIR_BLOWTYPE_ZACK,
+    FAIR_BLOWTYPE_SEPHIROTH,
+    FAIR_BLOWTYPE_LAST_GENESIS,
+    FAIR_BLOWTYPE_IFRIT,
+    FAIR_BLOWTYPE_BEHEMOTH,
+    FAIR_BLOWTYPE_BAHAMUT_100,
+};
+

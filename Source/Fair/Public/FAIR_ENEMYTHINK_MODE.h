@@ -1,0 +1,15 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "FAIR_ENEMYTHINK_MODE.generated.h"
+
+UENUM(BlueprintType)
+enum class FAIR_ENEMYTHINK_MODE : uint8 {
+    FAIR_ENEMYTHINK_BASIC,
+    FAIR_ENEMYTHINK_LOOKING,
+    FAIR_ENEMYTHINK_STOP,
+    FAIR_ENEMYTHINK_APPROACH,
+    FAIR_ENEMYTHINK_ZACK,
+    FAIR_ENEMYTHINK_SCRIPT/* = 0xFF*/,
+    FAIR_ENEMYTHINK_MAX UMETA(Hidden),
+};
+
