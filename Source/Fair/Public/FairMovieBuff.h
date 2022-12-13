@@ -1,6 +1,6 @@
 #pragma once
 #include "CoreMinimal.h"
-#include "Mana/ManaComponent.h"
+#include "ManaComponent.h"
 
 #include "FairMovieBuff.generated.h"
 
