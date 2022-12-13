@@ -2,6 +2,8 @@
 #include "CoreMinimal.h"
 #include "Evaluation/MovieSceneEvalTemplate.h"
 #include "MovieSceneManaSectionParams.h"
+#include "MovieSceneManaTrack.h"
+#include "MovieSceneManaSection.h"
 #include "MovieSceneManaSectionTemplate.generated.h"
 
 USTRUCT(BlueprintType)
@@ -14,5 +16,7 @@ private:
     
 public:
     CRIWAREMOVIESCENES_API FMovieSceneManaSectionTemplate();
+	FMovieSceneManaSectionTemplate(const UMovieSceneManaSection& Section, const UMovieSceneManaTrack& Track);
+	virtual ~FMovieSceneManaSectionTemplate() = default;
 };
 

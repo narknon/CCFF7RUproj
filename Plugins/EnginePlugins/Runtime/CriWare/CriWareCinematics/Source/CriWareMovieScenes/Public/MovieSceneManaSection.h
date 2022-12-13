@@ -1,13 +1,13 @@
 #pragma once
 #include "CoreMinimal.h"
-#include "UObject/NoExportTypes.h"
 #include "MovieSceneSection.h"
+#include "UObject/NoExportTypes.h"
 #include "MovieSceneManaSection.generated.h"
 
+class UManaSource;
 class UAtomComponent;
 class UManaTexture;
 class UManaPlayer;
-class UManaSource;
 
 UCLASS(Blueprintable, MinimalAPI)
 class UMovieSceneManaSection : public UMovieSceneSection {

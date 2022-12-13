@@ -1,11 +1,11 @@
 #pragma once
 #include "CoreMinimal.h"
+#include "MovieSceneSection.h"
 #include "UObject/NoExportTypes.h"
 #include "AtomSelectorParam.h"
 #include "Channels/MovieSceneFloatChannel.h"
 #include "Sections/MovieSceneActorReferenceSection.h"
 #include "Sections/MovieSceneParameterSection.h"
-#include "MovieSceneSection.h"
 #include "MovieSceneAtomSection.generated.h"
 
 class USoundAtomCue;

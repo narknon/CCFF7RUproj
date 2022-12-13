@@ -3,10 +3,10 @@
 #include "UObject/NoExportTypes.h"
 #include "MovieSceneManaSectionParams.generated.h"
 
+class UManaSource;
 class UAtomComponent;
 class UManaTexture;
 class UManaPlayer;
-class UManaSource;
 
 USTRUCT(BlueprintType)
 struct FMovieSceneManaSectionParams {
