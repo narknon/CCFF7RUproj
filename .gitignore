@@ -147,3 +147,9 @@ obj/
 
 # Explcitly ignore Mac DS_Store files, regardless of where they are
 .DS_Store
+Binaries/Win64/CCFF7R-Win64-Shipping.exe
+Binaries/Win64/CCFF7R-Win64-Shipping.exp
+Binaries/Win64/CCFF7R-Win64-Shipping.lib
+Binaries/Win64/CCFF7R-Win64-Shipping.target
+Binaries/Win64/OpenImageDenoise.dll
+Binaries/Win64/tbb12.dll
