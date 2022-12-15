@@ -1,3 +1,3 @@
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_MODULE(FDefaultGameModuleImpl, Fair);
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, Fair, "Fair");
