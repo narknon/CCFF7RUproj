@@ -3,7 +3,7 @@
 #include "FairMovieBuff.h"
 #include "MediaDebugWrapper.h"
 #include "ZGameInstanceSubsystemBase.h"
-#include "ManaSource.h"
+#include "Mana/ManaSource.h"
 #include "FairMovieManager.generated.h"
 
 class UManaTexture;
