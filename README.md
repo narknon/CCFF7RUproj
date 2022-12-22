@@ -6,7 +6,20 @@ Main branch is for launcher version of the engine.  The CustomEngineDev branch r
 
 See the wiki for other tutorials: https://github.com/narknon/CCFF7RUproj/wiki
 
-Project is prebuilt.  You need Visual Studio 2017, 2019 or 2022 with Game Dev components installed.
+Project is prebuilt.  You need Visual Studio 2017, 2019 or 2022 with Game Dev components installed.  VS 2022 can be downloaded here: https://visualstudio.microsoft.com/vs/community/
+
+Ensure these options are selected when installing.  ![image](https://user-images.githubusercontent.com/73571427/209239744-7707f454-788c-408f-8eab-7460281a7644.png)
+
+
+After downloading the project, right click on the CCFF7R.uproject, select switch Unreal Engine Version, and ensure it says 4.27, then hit OK.
+
+![image](https://user-images.githubusercontent.com/73571427/209239849-32f5e88d-e427-47e2-aea8-626d65f9aaa5.png)
+
+![image](https://user-images.githubusercontent.com/73571427/209239863-e54bc5de-ef39-473f-9441-d9dde8c4f48a.png)
+
+Once that completes, clicking on the .uproject should launch the project.
+
+
 
 To pak files as UCAS/UTOC:
 
