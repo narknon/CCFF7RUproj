@@ -2,7 +2,7 @@
 
 uProject for UE 4.27.2
 
-Main branch is for launcher version of the engine.  Working on a custom engine, which will be on another branch.
+Main branch is for launcher version of the engine.  The CustomEngineDev branch requires the custom engine found at the CCFF7R branch here: https://github.com/narknon/UnrealEngine-CEEnd/tree/CCFF7R.  The custom engine has improvements for material modding and other features.
 
 Project is prebuilt.  You need Visual Studio 2017, 2019 or 2022 with Game Dev components installed.
 
