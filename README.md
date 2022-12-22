@@ -20,6 +20,7 @@ After downloading the project, right click on the CCFF7R.uproject, select switch
 Once that completes, clicking on the .uproject should launch the project.
 
 
+Note that most mods currently require this .exe patch for CCFF7R: https://www.nexusmods.com/crisiscoreff7reunion/mods/2 
 
 To pak files as UCAS/UTOC:
 
