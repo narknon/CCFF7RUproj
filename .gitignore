@@ -130,7 +130,11 @@
 # Ignore content folders except mats
 !Content/Fair/00_Common/Materials/M/ch/*
 
+!Content/Fair/00_Common/Textures/*
 
+!Content/Fair/Character/00_Common/Textures/*
+!Content/Fair/Map/00_Common/Prop/mid5/SlumParts_5stAvenue/Texture/T_en_mid5_crack_00_NML.uasset
+!Content/Fair/Map/00_Common/Prop/mid5/SlumParts_5stAvenue/Texture/T_en_mid5_crack_00_ALB.uasset
 
 !USMAP/*
 
