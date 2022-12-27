@@ -128,7 +128,8 @@
 
 
 # Ignore content folders except mats
-!Content/Fair/00_Common/Materials/M/ch/*
+!Content/Fair/00_Common/Materials/M/ch/**
+
 
 !Content/Fair/00_Common/Textures/*
 
