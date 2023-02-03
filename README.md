@@ -22,7 +22,7 @@ Once that completes, clicking on the .uproject should launch the project.
 
 Note that most mods currently require this .exe patch for CCFF7R: https://www.nexusmods.com/crisiscoreff7reunion/mods/2 
 
-To pak files as UCAS/UTOC:
+# To pak files as UCAS/UTOC:
 
 Download and open the uproject, pointing it at your 4.27.2 install.
 
